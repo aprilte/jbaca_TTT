@@ -9,4 +9,5 @@ summary: '<p>Everybody remembers this paper-and-pencil game from childhood: Tic-
 programming_language: Kotlin
 content:
 - Topics
+- Simple Tic-Tac-Toe
 mode: Study
