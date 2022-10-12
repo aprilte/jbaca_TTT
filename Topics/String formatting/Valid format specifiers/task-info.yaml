@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: '%f'
+- text: '%o'
+- text: '%G'
+- text: '%F'
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/21439#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 12 Oct 2022 11:47:58 UTC
+record: -1
+selected_options:
+- 0
+- 1
+- 2
+local_check: false
